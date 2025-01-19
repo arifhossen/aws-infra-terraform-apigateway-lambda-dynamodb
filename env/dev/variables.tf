@@ -22,7 +22,8 @@ variable "lambda_function_name" {
 }
 
 variable "dynamodb_table_name" {
-  default = "serverless-dynamodb"
+  description = "DyanmoDB Table Name"
+  type        = string
 }
 
 

@@ -6,6 +6,8 @@ This repository provides a complete example of deploying a serverless applicatio
 
 ---
 
+![AWS Serverless Diagram](https://arifhossen.net/github_resources/aws_serverless_diagram_with_terraform.png "AWS Serverless Diagram Deploy by terraform")
+
 ## Table of Contents  
 
 1. [Features](#features)  
